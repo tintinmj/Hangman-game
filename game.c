@@ -4,7 +4,7 @@
 
 #include<stdlib.h>
 
- void showHangman(int);
+void showHangman(int);
 
 int main(void)
 {
@@ -55,8 +55,8 @@ int main(void)
 
     system("cls");
 
-      printf("\n\t||===== ");                 /**show the HANGMAN**/
-	    printf("\n\t||    | ");
+        printf("\n\t||===== ");                 /**show the HANGMAN**/
+	printf("\n\t||    | ");
         printf("\n\t||      ");
         printf("\n\t||      ");
         printf("\n\t||      ");
