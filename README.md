@@ -1,8 +1,6 @@
 Hangman-game
 ============
 
- DATE : 05.27.2013.
-
  This is a simple HANGMAN GAME that
  we all had played in childhood.
 
