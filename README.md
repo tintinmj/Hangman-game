@@ -8,12 +8,12 @@ Hangman-game
  Player 1 will give a word as input and Player 2 will guess the word
  by giving an alphabet as input.
 
- If Player 2 guesses it right then he/she is the winner
+ If Player 2 guess it right then he/she will be the winner
  Player 2 gets only 5 chances to guess the word
 
                            !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ENJOY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
- But this program has some constrains :
+ But this game has some constrains :
 
  Constrains 1 : all inputs has to be alphabets in small case
 
