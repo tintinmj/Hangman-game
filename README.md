@@ -24,6 +24,3 @@ Hangman-game
 
 
                            !!!!!!!!!!!!!!!!!!!!!!!!!!!!!Enjoy The Game!!!!!!!!!!!!!!!!!!!!!!!!!!
-
- COPYRIGHT (C) @tintinmj
-
