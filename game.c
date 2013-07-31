@@ -83,8 +83,8 @@ int main(void)
 		    if(alphabetFromUser==hangmanWord[counter])
 		     {
 		       matchFound = 1;
-             }//end of if()
-        }//end of for()
+                     }//end of if()
+            }//end of for()
 
 	   if(matchFound == 0)                      /**in case of wrong guess**/
 	    {
@@ -97,9 +97,9 @@ int main(void)
 	   else
 	   {
 	     for(counter = 0; counter < length; counter++)
-         {
-     		  matchFound = 0;
-              if(alphabetFromUser == hangmanWord[counter])
+             {
+     	         matchFound = 0;
+                 if(alphabetFromUser == hangmanWord[counter])
 	          {
      		     position = counter ;
      		     matchFound = 1;
